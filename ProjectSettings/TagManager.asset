@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectible
+  - npc
+  - checkpoint
+  - pzp
+  - shuriken
+  - zombie
+  - floor
+  - plt
+  - misc
+  - wolf
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - standable
+  - npc
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: behind
+    uniqueID: 1330589189
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3279224179
+    locked: 0
+  - name: midground
+    uniqueID: 531236443
+    locked: 0
+  - name: preForeground
+    uniqueID: 1060245181
+    locked: 0
+  - name: foreground
+    uniqueID: 2845875665
+    locked: 0
