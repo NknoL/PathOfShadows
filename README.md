@@ -16,28 +16,27 @@ PathOfShadows es un juego de acción 2D con combates fluidos, animaciones detall
 - **Animaciones fluidas** de idle, run, attack, jump, death y más
 - **Sistema de vida** con corazones y barra de salud
 - **Audio inmersivo** con música de fondo y efectos de sonido
-- **Mecánicas extra**: Portales, explosiones, monedas y power-ups
+- **Mecánicas extra**: Portales y explosiones.
 
 ## 🕹️ Controles
 
 | Acción          | Tecla          |
 |-----------------|----------------|
 | Moverse         | WASD / Flechas |
-| Saltar          | Espacio        |
-| Atacar          | Click izquierdo / J |
-| Shuriken        | Click derecho  |
-| Dash / Habilidad| Shift          |
+| Saltar          | W              |
+| Atacar          | N              |
+| Shuriken        | M              |
 
 ## 📸 Capturas de pantalla
 
 **Pantalla de inicio**
 ![Inicio](Screenshots/portada.png)
 
+**Pantalla de intrucciones**
+![Combate](Screenshots/instructions.png)
+
 **Gameplay - Nivel 1**
 ![Gameplay Nivel 1](Screenshots/gameplay1.png)
-
-**Combate contra enemigos**
-![Combate](Screenshots/combate.png)
 
 **Nivel 2 - Boss fight**
 ![Nivel 2](Screenshots/nivel2.png)
@@ -46,19 +45,17 @@ PathOfShadows es un juego de acción 2D con combates fluidos, animaciones detall
 
 - **Motor**: Unity (2D)
 - **Lenguaje**: C#
-- **Arte**: Sprites y animaciones propias
-- **Audio**: Efectos de sonido y música original
+- **Arte**: Sprites y animaciones de itch.io
+- **Audio**: Efectos de sonido y música gratuita
 
 ## ▶️ Cómo jugar
 
 ### Opción 1 - Ejecutable (recomendado)
-1. Descarga la última build desde la carpeta `Samurai_Data` o compila el proyecto.
-2. Ejecuta `Samurai Rendition.exe`
+1. Descarga la última build desde la carpeta `PathOfShadows_Data` o compila el proyecto.
+2. Ejecuta `PathOfShadows.exe`
 
 ### Opción 2 - Desde Unity
 1. Abre el proyecto en Unity
 2. Ve a `File > Build Settings`
 3. Añade las escenas: `StartScene`, `Level1`, `Level2`, `StoryBreak1`, `StoryBreak2`
 4. Build & Run
-
-## 📦 Estructura del proyecto
