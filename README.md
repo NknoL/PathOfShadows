@@ -39,7 +39,7 @@ PathOfShadows es un juego de acción 2D con combates fluidos, animaciones detall
 ![Gameplay Nivel 1](Screenshots/gameplay1.png)
 
 **Nivel 2 - Boss fight**
-![Nivel 2](Screenshots/nivel2.png)
+![Nivel 2](Screenshots/instructions.png)
 
 ## 🛠️ Tecnologías
 
